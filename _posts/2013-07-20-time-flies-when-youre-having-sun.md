@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-What a difference a year makes. Exactly one year ago today, July 19th 2012, my wife and I [risked everything and moved to Florida](http://www.ericmitz.com/why-i-risked-everything-and-moved-to-florida/). Why? Well, why not? I still can't believe we've already made a full trip around the sun since we packed everything up and sold our (awesome) home in Massachusetts. In this first part of a potentially two part series, I'd like to reflect on some of the benefits and challenges of not only working from home, but doing so from across the country. In the coming days I'd like to write another about life in general having moved to a completely new state away from everyone you've ever known. 
+What a difference a year makes. Exactly one year ago today, July 19th 2012, my wife and I [risked everything and moved to Florida](/why-i-risked-everything-and-moved-to-florida/). Why? Well, why not? I still can't believe we've already made a full trip around the sun since we packed everything up and sold our (awesome) home in Massachusetts. In this first part of a potentially two part series, I'd like to reflect on some of the benefits and challenges of not only working from home, but doing so from across the country. In the coming days I'd like to write another about life in general having moved to a completely new state away from everyone you've ever known. 
 
 <!--more-->
 
