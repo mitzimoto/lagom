@@ -3,6 +3,8 @@ pygments: true
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+permalink: :title/
+paginate: 5
 
 # Theme customization - please change from the defaults!
 theme:
