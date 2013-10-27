@@ -4,7 +4,8 @@ url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 permalink: :title/
-paginate: 5
+paginate: 10
+excerpt_separator: <!--more-->
 
 # Theme customization - please change from the defaults!
 theme:
@@ -13,13 +14,16 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
-    twitter: _swanson
-    hacker_news: swanson
+    github: mitzimoto
+    twitter: ericmitz
+    hacker_news: MitziMoto
+    linkedin: ericmitz
+    #stackoverflow: 'http://stackoverflow.com/users/1713278/mitzimoto'
+    gplus: 'https://plus.google.com/103836655075677405080/posts'
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
+  name: Eric Mitz
+  email: eric@ericmitz.com
   tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore

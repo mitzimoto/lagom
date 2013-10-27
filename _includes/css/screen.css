@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1.title {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h1 {
@@ -148,7 +148,8 @@ nav hr {
 }
 
 .sidebar p {
-  font-weight: 200;
+  font-weight: 600;
+  text-align: center;
 }
 
 .sidebar a {
@@ -156,11 +157,15 @@ nav hr {
 }
 
 .content {
-  font: 400 16px/22px "open sans", sans-serif;
+  font: 400 16px/26px "open sans", sans-serif;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
   min-height: 400px;
+}
+
+.content img {
+  max-width: 650px;
 }
 
 .footer {

@@ -7,6 +7,8 @@ categories:
 
 What a difference a year makes. Exactly one year ago today, July 19th 2012, my wife and I [risked everything and moved to Florida](http://www.ericmitz.com/why-i-risked-everything-and-moved-to-florida/). Why? Well, why not? I still can't believe we've already made a full trip around the sun since we packed everything up and sold our (awesome) home in Massachusetts. In this first part of a potentially two part series, I'd like to reflect on some of the benefits and challenges of not only working from home, but doing so from across the country. In the coming days I'd like to write another about life in general having moved to a completely new state away from everyone you've ever known. 
 
+<!--more-->
+
 ## What is it like to work from home full time?
 
 Obviously one of the biggest changes for me after we moved was the shift from working in an office cubicle to working from home every day. To most people this sounds like a dream come true, and for the most part it's everything you would expect it to be. I no longer have to spend 80-90 minutes of my day sitting in traffic and dealing with lunatics on the Mass Pike. Instead, I use that time to be more productive at work. I tend to start earlier and stick around later than I ever did when I was driving to the office everyday. 
