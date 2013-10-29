@@ -258,3 +258,11 @@ span.icon-hn {
   font-size: smaller; 
   padding-bottom: 10px
 }
+
+/* EM */
+ul.sidebar-nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0px;
+  font-size: 16px;
+}
