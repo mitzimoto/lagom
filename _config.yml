@@ -6,6 +6,7 @@ exclude: [LICENSE, CNAME, README.md, .gitignore]
 permalink: :title/
 paginate: 10
 excerpt_separator: <!--more-->
+markdown: redcarpet
 
 # Theme customization - please change from the defaults!
 theme:
