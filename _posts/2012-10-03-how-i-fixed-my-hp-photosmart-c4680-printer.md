@@ -44,3 +44,5 @@ To fix it, I ordered a [330uF 6.3v](http://www.amazon.com/gp/product/B0084PA3JQ/
 9. Heat up the capacitor leads and apply a small amount of solder to each lead.
 
 10. Re-installation is the reverse of removal. Enjoy!
+
+11. test
