@@ -23,24 +23,24 @@ It turns out the problem was a blown capacitor on the control board. You could v
 
 To fix it, I ordered a [330uF 6.3v](http://www.amazon.com/gp/product/B0084PA3JQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0084PA3JQ&linkCode=as2&tag=wwwdigmyhonda-20) capacitor on Amazon for a whopping $0.92 cents. 
 
-1.     Disassemble the top of the scanner (there are four, black [Torx head screws ](http://www.amazon.com/gp/product/B000S8ZZG8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000S8ZZG8&linkCode=as2&tag=wwwdigmyhonda-20) holding it down). 
+1. Disassemble the top of the scanner (there are four, black [Torx head screws ](http://www.amazon.com/gp/product/B000S8ZZG8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000S8ZZG8&linkCode=as2&tag=wwwdigmyhonda-20) holding it down). 
 
-2.     Reach behind the control panel where the power button is and release the clip holding the panel in place. It will come free. There is one screw behind the panel that's a bit difficult to get to.
+2. Reach behind the control panel where the power button is and release the clip holding the panel in place. It will come free. There is one screw behind the panel that's a bit difficult to get to.
 
-3.     Disconnect all the cables and connectors from the logic board towards the back of the printer where the power and USB cables plug in.
+3. Disconnect all the cables and connectors from the logic board towards the back of the printer where the power and USB cables plug in.
 
-4.     There are three silver torx head screws holding the logic board in place. Remove those and gently remove the board.
+4. There are three silver torx head screws holding the logic board in place. Remove those and gently remove the board.
 
-5.     Identify the blown capacitor. It's green and should say TEAPO on the side. Here it is circled in red.
+5. Identify the blown capacitor. It's green and should say TEAPO on the side. Here it is circled in red.
 
 ![HP4680 logic board](http://i.imgur.com/Z4y1J.jpg)
 
-6.     Fire up your [soldering iron](http://www.amazon.com/gp/product/B0006NGZK0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0006NGZK0&linkCode=as2&tag=wwwdigmyhonda-20) (it doesn't have to be anything fancy) and heat up the leads to the capacitor underneath the board. 
+6. Fire up your [soldering iron](http://www.amazon.com/gp/product/B0006NGZK0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0006NGZK0&linkCode=as2&tag=wwwdigmyhonda-20) (it doesn't have to be anything fancy) and heat up the leads to the capacitor underneath the board. 
 
-7.     Pull on the capacitor while you heat up the leads and it should pop free once the solder is melted. 
+7. Pull on the capacitor while you heat up the leads and it should pop free once the solder is melted. 
 
-8.     Insert the new capacitor leads into the board. Make sure the negative side of the capacitor lines up with the white shaded part of the logic board.
+8. Insert the new capacitor leads into the board. Make sure the negative side of the capacitor lines up with the white shaded part of the logic board.
 
-9.     Heat up the capacitor leads and apply a small amount of solder to each lead.
+9. Heat up the capacitor leads and apply a small amount of solder to each lead.
 
-10.    Re-installation is the reverse of removal. Enjoy!
+10. Re-installation is the reverse of removal. Enjoy!
